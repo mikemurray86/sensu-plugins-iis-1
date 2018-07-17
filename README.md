@@ -12,6 +12,8 @@
  * bin/metrics-iis-get-requests.rb
  * bin/metrics-iis-current-connections.rb
  * bin/check-iis-current-connections.rb
+ * bin/check-iis-apppool-status.rb
+ * bin/check-iis-site-status.rb
 
 ## Usage
 
