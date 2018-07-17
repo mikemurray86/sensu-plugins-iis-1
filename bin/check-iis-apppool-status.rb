@@ -1,4 +1,29 @@
 #! /usr/bin/env ruby
+#
+# check-iis-apppool-status
+#
+# DESCRIPTION:
+#
+# OUTPUT:
+#   plain text
+#
+# PLATFORMS:
+#   iis
+#
+# DEPENDENCIES:
+#   gem: sensu-plugin
+#   gem: win32ole
+#
+# USAGE:
+#
+# NOTES:
+#
+#
+# LICENSE:
+#   Mike Murray (mikemurray86@gmail.com)
+#   Released under the same terms as Sensu (the MIT license); see LICENSE
+#   for details.
+#
 
 
 require 'sensu-plugin/check/cli'
